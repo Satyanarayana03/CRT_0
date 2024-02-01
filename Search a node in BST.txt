@@ -59,3 +59,68 @@ while True:
         exit
     else:
         print("Invalid choice")
+
+Output:
+1.Insert
+ 2.Show
+ 3.Search
+ 4.Exit
+Choice: 1
+Data: 15
+
+1.Insert
+ 2.Show
+ 3.Search
+ 4.Exit
+Choice: 1
+Data: 23
+
+1.Insert
+ 2.Show
+ 3.Search
+ 4.Exit
+Choice: 1
+Data: 33
+
+1.Insert
+ 2.Show
+ 3.Search
+ 4.Exit
+Choice: 1
+Data: 56
+
+1.Insert
+ 2.Show
+ 3.Search
+ 4.Exit
+Choice: 1
+Data: 78
+
+1.Insert
+ 2.Show
+ 3.Search
+ 4.Exit
+Choice: 1
+Data: 99
+
+1.Insert
+ 2.Show
+ 3.Search
+ 4.Exit
+Choice: 2
+15 23 33 40 56 78 99 
+1.Insert
+ 2.Show
+ 3.Search
+ 4.Exit
+Choice: 3
+search: 12
+search element is not found
+
+1.Insert
+ 2.Show
+ 3.Search
+ 4.Exit
+Choice: 3
+search: 33
+search element is  found
